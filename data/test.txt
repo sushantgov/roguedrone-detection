@@ -1,0 +1,8 @@
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flight-260nw-676190659.jpg
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flying-260nw-676181260.jpg
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flight-260nw-677261833.jpg
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flight-260nw-677261842.jpg
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flight-260nw-1009622689.jpg
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flight-260nw-1009622704.jpg
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flight-260nw-677261857.jpg
+/home/sushant/yolov3cd/yolov3/images/dji-mavic-pro-drone-flying-260nw-676181266.jpg

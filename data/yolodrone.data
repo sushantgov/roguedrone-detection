@@ -1,0 +1,8 @@
+classes= 1
+train= /home/sushant/yolov3cd/yolov3/more/train.txt
+valid= /home/sushant/yolov3cd/yolov3/more/test.txt
+#valid = data/coco_val_5k.list
+names = /home/sushant/yolov3cd/yolov3/data/drone.names
+backup = /home/sushant/yolov3cd/yolov3/backup/
+eval=coco
+
